@@ -1,6 +1,6 @@
 # todo-list
 
-[Click this Live link] (https://fadumasaidcodes.github.io/todo-list/)
+1. Live website https://fadumasaidcodes.github.io/todo-list/
 2. In the form, enter the text for a new to-do item in the input field.
 3. Click the "Add" button to add the item to the list.
 4. To mark an item as complete, click the "Complete" button to the right of the item. This will update the item's background color and add a line strike through the text.
