@@ -15,15 +15,15 @@
 
  ### HTML
 
-W3Schools: https://www.w3schools.com/html/
-Mozilla Developer Network: https://developer.mozilla.org/en-US/docs/Web/HTML
-freeCodeCamp: https://www.freecodecamp.org/learn/responsive-web-design/html/
+1. W3Schools: https://www.w3schools.com/html/
+2. Mozilla Developer Network: https://developer.mozilla.org/en-US/docs/Web/HTML
+3. freeCodeCamp: https://www.freecodecamp.org/learn/responsive-web-design/html/
 
 ### CSS
 
-W3Schools: https://www.w3schools.com/css/
-Mozilla Developer Network: https://developer.mozilla.org/en-US/docs/Web/CSS
-freeCodeCamp: https://www.freecodecamp.org/learn/responsive-web-design/css/
+1. W3Schools: https://www.w3schools.com/css/
+2. Mozilla Developer Network: https://developer.mozilla.org/en-US/docs/Web/CSS
+3. freeCodeCamp: https://www.freecodecamp.org/learn/responsive-web-design/css/
 
 ### JavaScript
 
