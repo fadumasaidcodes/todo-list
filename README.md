@@ -27,13 +27,12 @@ freeCodeCamp: https://www.freecodecamp.org/learn/responsive-web-design/css/
 
 ### JavaScript
 
-W3Schools: https://www.w3schools.com/js/
-Mozilla Developer Network: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-freeCodeCamp: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
-Web development in general
-
-Codecademy: https://www.codecademy.com/learn/learn-web-development
-Udemy: https://www.udemy.com/topic/web-development/
-Coursera: https://www.coursera.org/courses?query=web%20development
+1. W3Schools: https://www.w3schools.com/js/
+2. Mozilla Developer Network: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+3. freeCodeCamp: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+4. Codecademy: https://www.codecademy.com/learn/learn-web-development
+5. Udemy: https://www.udemy.com/topic/web-development/
+6. Coursera: https://www.coursera.org/courses?query=web%20development
 
 ## Screenshot of the Website
+
