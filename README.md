@@ -36,5 +36,9 @@
 
 ## Screenshot of the Website
 
-<img width="1440" alt="Screenshot 2023-01-11 at 03 33 00" src="https://user-images.githubusercontent.com/102771343/211711828-bd175105-6ff2-4915-ad27-09193fa2e322.png">
 <img width="1440" alt="Screenshot 2023-01-11 at 03 37 00" src="https://user-images.githubusercontent.com/102771343/211712086-88c48b31-776b-49d6-a09e-11a5c20f0a46.png">
+
+<img width="1440" alt="Screenshot 2023-01-11 at 03 41 58" src="https://user-images.githubusercontent.com/102771343/211712561-ba366aab-fe05-4366-8111-f13030b92dfb.png">
+
+<img width="1440" alt="Screenshot 2023-01-11 at 03 43 34" src="https://user-images.githubusercontent.com/102771343/211712770-2f99cfba-8e25-4835-bd98-5b075e4a24a4.png">
+<img width="1440" alt="Screenshot 2023-01-11 at 03 43 12" src="https://user-images.githubusercontent.com/102771343/211712780-1371d8b1-a4e9-49a1-b9bc-c5d6e8b9a6aa.png">
