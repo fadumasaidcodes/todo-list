@@ -1,6 +1,6 @@
 # todo-list
 
-1. Click this Live link 
+1. [Click this Live link] ()
 2. In the form, enter the text for a new to-do item in the input field.
 3. Click the "Add" button to add the item to the list.
 4. To mark an item as complete, click the "Complete" button to the right of the item. This will update the item's background color and add a line strike through the text.
@@ -36,3 +36,4 @@
 
 ## Screenshot of the Website
 
+<img width="1440" alt="Screenshot 2023-01-11 at 03 25 52" src="https://user-images.githubusercontent.com/102771343/211710896-980451f4-0140-4deb-8efc-7714edb29996.png">
