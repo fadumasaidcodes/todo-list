@@ -36,4 +36,5 @@
 
 ## Screenshot of the Website
 
-<img width="1440" alt="Screenshot 2023-01-11 at 03 25 52" src="https://user-images.githubusercontent.com/102771343/211710896-980451f4-0140-4deb-8efc-7714edb29996.png">
+<img width="1440" alt="Screenshot 2023-01-11 at 03 33 00" src="https://user-images.githubusercontent.com/102771343/211711828-bd175105-6ff2-4915-ad27-09193fa2e322.png">
+<img width="1440" alt="Screenshot 2023-01-11 at 03 37 00" src="https://user-images.githubusercontent.com/102771343/211712086-88c48b31-776b-49d6-a09e-11a5c20f0a46.png">
