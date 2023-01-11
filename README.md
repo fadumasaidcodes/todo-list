@@ -36,9 +36,8 @@
 
 ## Screenshot of the Website
 
-<img width="1440" alt="Screenshot 2023-01-11 at 03 37 00" src="https://user-images.githubusercontent.com/102771343/211712086-88c48b31-776b-49d6-a09e-11a5c20f0a46.png">
 
-<img width="1440" alt="Screenshot 2023-01-11 at 03 41 58" src="https://user-images.githubusercontent.com/102771343/211712561-ba366aab-fe05-4366-8111-f13030b92dfb.png">
-
-<img width="1440" alt="Screenshot 2023-01-11 at 03 43 34" src="https://user-images.githubusercontent.com/102771343/211712770-2f99cfba-8e25-4835-bd98-5b075e4a24a4.png">
-<img width="1440" alt="Screenshot 2023-01-11 at 03 43 12" src="https://user-images.githubusercontent.com/102771343/211712780-1371d8b1-a4e9-49a1-b9bc-c5d6e8b9a6aa.png">
+<img width="1440" alt="Screenshot 2023-01-11 at 03 49 47" src="https://user-images.githubusercontent.com/102771343/211713592-c0e35d83-a8b0-4b10-a698-e14314d7a97e.png">
+<img width="1440" alt="Screenshot 2023-01-11 at 03 49 31" src="https://user-images.githubusercontent.com/102771343/211713610-5b5ad7b2-d4df-49f3-89a0-48895aa30fc6.png">
+<img width="1440" alt="Screenshot 2023-01-11 at 03 49 18" src="https://user-images.githubusercontent.com/102771343/211713630-25322c72-91a7-4999-9512-8f145fa86f0f.png">
+<img width="1440" alt="Screenshot 2023-01-11 at 03 48 43" src="https://user-images.githubusercontent.com/102771343/211713647-c770a843-7725-48a5-8ed3-d6a9309ba536.png">
